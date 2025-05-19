@@ -23,6 +23,7 @@
 
 ## Correlation Analysis
 
+
 - **Volume, TVL, Cumulative Volume** → **Very strong correlation (0.98–0.99)** with Total Point → *Key Ranking Factors*
 - **Multi-chain** → Strong correlation with:
   - Total Point: 0.86  
