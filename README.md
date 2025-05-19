@@ -135,16 +135,16 @@ High performance, low slippage.\
 ➡️The communication advantage lies in the focus on the Solana ecosystem, complementing the benefits of speed and low slippage.
 
 ## UX Issue 1:
-For new users, after clicking the Supply button for a token, two options appear simultaneously: **"Approve"** and **"Supply [USDT]** (disabled)".
+For new users, after clicking the Supply button for a token, two options appear simultaneously: **"Approve"** and **"Supply [USDT]** (disabled)".\
 The interface displays the Supply button even when the Approve step hasn't been completed, which can be confusing.
-This causes users to expect they can supply immediately, but then they get stuck.
-➡️ Users may drop off right at this step.
+This causes users to expect they can supply immediately, but then they get stuck.\
+➡️ Users may drop off right at this step.\
 illustrate image: 
-
-##Issue 2: Waiting time when performing “Supply” takes around 1–2 minutes (e.g. supplying USDT on Polygon network).
-This is technically normal since the waiting time depends on the chain. However, it can frustrate new users → they may leave in the middle of the process
-➡️(1) Users cancel the transaction and leave
+![Cluster Visualization](figure/issue1.png)
+##Issue 2: Waiting time when performing “Supply” takes around 1–2 minutes (e.g. supplying USDT on Polygon network).\
+This is technically normal since the waiting time depends on the chain. However, it can frustrate new users → they may leave in the middle of the process\
+➡️(1) Users cancel the transaction and leave\
 ➡️(2) The platform continues to process while users start another transaction → leads to wasted gas for users.
 
 ## Recomendation
-![Cluster Visualization](figure/corr.png)
+![Cluster Visualization](figure/recomendation.png)
